@@ -1,46 +1,53 @@
-# 📱 Modern QR Code Generator
-### *Sleek & Functional QR Generation Tool*
+# <p align="center">📱 MODERN QR GENERATOR: SLEEK & FAST</p>
+## <p align="center">🎨 CustomTkinter ile Güçlendirilmiş Modern QR Oluşturucu</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/UI-CustomTkinter-black?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Status-Stable-success?style=for-the-badge" />
+</p>
 
 ---
 
-## 🇺🇸 English Version
+# 🚀 PROJECT OVERVIEW (EN)
 
-### ✨ Key Features
----
-* 🎨 **Modern UI:** Dark mode aesthetics powered by **CustomTkinter**.
-* 🔍 **Live Preview:** Instant visualization of the generated code inside the app.
-* 🌫️ **Hover Effect:** Smooth blur animation on QR code interaction.
-* 💾 **High Quality Export:** Save your codes as high-resolution **PNG** files.
-* 📦 **Portable Build:** Runs directly as an `.exe` with no installation required.
+**Modern QR Generator** is a high-performance desktop application built with **Python**. It combines a minimalist dark-mode aesthetic with powerful image processing to provide a seamless user experience.
 
-### 🛠️ Tech Stack
----
-| Technology | Usage |
-| :--- | :--- |
-| **Python 3.x** | Core Language |
-| **CustomTkinter** | Modern UI Design |
-| **Pillow (PIL)** | Image Processing & Effects |
-| **QRCode** | Generation Engine |
+### 🌟 Key Features
+* 🎨 **Premium UI:** Modern dark interface designed with **CustomTkinter**.
+* 🔍 **Real-time Preview:** Instant generation and display of QR codes.
+* 🌫️ **Visual Effects:** Dynamic blur animation on hover for a polished feel.
+* 💾 **Direct Export:** Quick-save functionality in high-definition **PNG** format.
+* 📦 **Standalone:** Fully functional `.exe` build with zero external dependencies.
 
 ---
 
-## 🇹🇷 Türkçe Versiyon
+# 🚀 PROJE DETAYLARI (TR)
 
-### ✨ Öne Çıkan Özellikler
----
-* 🎨 **Modern Arayüz:** **CustomTkinter** ile hazırlanmış göz yormayan karanlık mod.
-* 🔍 **Canlı Önizleme:** Oluşturulan QR kodun uygulama içinde anlık gösterimi.
-* 🌫️ **Hover Efekti:** Kodun üzerine gelindiğinde devreye giren zarif blur animasyonu.
-* 💾 **Yüksek Kalite Kayıt:** Tek tıkla yüksek çözünürlüklü **PNG** formatında kaydetme.
-* 📦 **Taşınabilir:** Kurulum gerektirmeyen, doğrudan çalışabilen `.exe` yapısı.
+**Modern QR Generator**, **Python** tabanlı, performans odaklı bir masaüstü uygulamasıdır. Minimalist karanlık mod tasarımını, güçlü görsel işleme yetenekleriyle birleştirerek kullanıcıya pürüzsüz bir deneyim sunar.
 
-### 🛠️ Kullanılan Teknolojiler
----
-| Teknoloji | Kullanım Amacı |
-| :--- | :--- |
-| **Python 3.x** | Ana Programlama Dili |
-| **CustomTkinter** | Modern Arayüz Bileşenleri |
-| **Pillow (PIL)** | Görsel İşleme ve Efektler |
-| **QRCode** | QR Kod Üretim Kütüphanesi |
+### 🌟 Temel Özellikler
+* 🎨 **Premium Arayüz:** **CustomTkinter** kullanılarak tasarlanmış modern karanlık tema.
+* 🔍 **Anlık Önizleme:** QR kodların oluşturulduğu anda uygulama içinde gösterimi.
+* 🌫️ **Görsel Efektler:** Mouse üzerine geldiğinde devreye giren dinamik blur animasyonu.
+* 💾 **Hızlı Kayıt:** Yüksek çözünürlüklü **PNG** formatında tek tıkla kaydetme.
+* 📦 **Taşınabilir Yapı:** Kurulum gerektirmeyen, doğrudan çalışan `.exe` desteği.
 
 ---
+
+# 🛠️ TECHNICAL STACK
+
+Uygulamanın mimarisi modern kütüphaneler üzerine inşa edilmiştir.
+
+| Component | Technology | Role |
+| :--- | :--- | :--- |
+| **Backend** | Python 3.x | Logic & Engine |
+| **Frontend** | CustomTkinter | Modern UI/UX Design |
+| **Image Core** | Pillow (PIL) | Processing & Effects |
+| **Generator** | QRCode | QR Matrix Encoding |
+
+---
+
+<p align="center">
+  <i>Developed with ❤️ for Modern Desktop Experiences - 2026</i>
+</p>
